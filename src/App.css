@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.google-logo{
+  width: 20px;
+}
+.google-sign-in-btn{
+  cursor: pointer;
+}
